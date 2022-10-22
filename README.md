@@ -1,4 +1,4 @@
-# Sign Up form
+# Sign up validation form
 
 Client side validation sign up form turning green if the data is entered and it is in the correct format, else turning red if the data
 is not entered, or it is incorrect data.
